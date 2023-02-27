@@ -7,7 +7,7 @@ Keyloggers, or keystroke loggers, are tools that record what a person types on a
 
 This project will guide you on how to set up a keylogger in your Operating System. You can take any keylogger script that you like, as long as it has the same functionality with the script used in this project, which is a very simple one from the web just for POC.
 
-**Requirements:** Just a recent python version.
+**Requirements:** Just a recent python version and the "pynput" module. (You can download pynput module with "pip3 install pynput" command)
 
 ## Contents
 
