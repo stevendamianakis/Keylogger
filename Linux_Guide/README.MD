@@ -23,7 +23,10 @@ Now, all you need to do, is make the app run on startup.
 
 - Go to Tweaks > Startup Applications > + > name_of_keylogger_app
 
-In some Kali Linux OS versions you will have to make the keylogger run on startup from the "Session and Startup" section. The process of creating the app is the same. This way you will create the keylogger app and configure it to run on startup, at the same time.
+In some Kali Linux OS versions you will have to make the keylogger run on startup through a different way.
+- Go to Session and Startup > Application Autostart > + > fill_out_info_as_before. 
+
+The process of creating the app is the same. This way you will create the keylogger app and configure it to run on startup, at the same time.
 
 The keylogs.txt will be under /home/user because this is the working directory of the keylogger application when it runs on startup.
 
